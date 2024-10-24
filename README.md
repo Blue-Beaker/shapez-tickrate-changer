@@ -5,6 +5,9 @@ This mod allows you to change tickrate/TPS(Ticks per Second), to prevent slowing
 It also unbinds tickrate from the framerate/FPS(Frames per Second) setting.  
 It defaults to 20 TPS. This allows belts to transfer at 20/s with minimum lags.  
 
+### Installation
+Simply copy tickrate-changer.js to your mods folder.
+
 ### Keybinds
 `[`: Tickrate -1  
 `]`: Tickrate +1  

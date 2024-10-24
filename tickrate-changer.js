@@ -1,11 +1,11 @@
 // @ts-nocheck
 const METADATA = {
-    website: "",
+    website: "https://github.com/Blue-Beaker/shapez-tickrate-changer",
     author: "Blue_Beaker",
     name: "Tickrate Changer",
     version: "1",
     id: "tickrate-changer",
-    description: "Change tickrates to componsate performance and belt speed",
+    description: "Change tickrates to prevent slowing down production",
     minimumGameVersion: ">=1.5.0",
     doesNotAffectSavegame: true,
     
